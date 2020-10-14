@@ -1,0 +1,17 @@
+C:\Users\Elxan\source\repos\K101BookApp\K101BookApp\bin\Debug\K101BookApp.exe.config
+C:\Users\Elxan\source\repos\K101BookApp\K101BookApp\bin\Debug\K101BookApp.exe
+C:\Users\Elxan\source\repos\K101BookApp\K101BookApp\bin\Debug\K101BookApp.pdb
+C:\Users\Elxan\source\repos\K101BookApp\K101BookApp\obj\Debug\K101BookApp.csprojAssemblyReference.cache
+C:\Users\Elxan\source\repos\K101BookApp\K101BookApp\obj\Debug\K101BookApp.Form1.resources
+C:\Users\Elxan\source\repos\K101BookApp\K101BookApp\obj\Debug\K101BookApp.Properties.Resources.resources
+C:\Users\Elxan\source\repos\K101BookApp\K101BookApp\obj\Debug\K101BookApp.csproj.GenerateResource.cache
+C:\Users\Elxan\source\repos\K101BookApp\K101BookApp\obj\Debug\K101BookApp.csproj.CoreCompileInputs.cache
+C:\Users\Elxan\source\repos\K101BookApp\K101BookApp\obj\Debug\K101BookApp.exe
+C:\Users\Elxan\source\repos\K101BookApp\K101BookApp\obj\Debug\K101BookApp.pdb
+C:\Users\Elxan\source\repos\K101BookApp\K101BookApp\obj\Debug\K101BookApp.BookListForm.resources
+C:\Users\Elxan\source\repos\K101BookApp\K101BookApp\obj\Debug\K101BookApp.WelcomeForm.resources
+C:\Users\Elxan\source\repos\K101BookApp\K101BookApp\bin\Debug\EntityFramework.dll
+C:\Users\Elxan\source\repos\K101BookApp\K101BookApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Elxan\source\repos\K101BookApp\K101BookApp\bin\Debug\EntityFramework.xml
+C:\Users\Elxan\source\repos\K101BookApp\K101BookApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Elxan\source\repos\K101BookApp\K101BookApp\obj\Debug\K101BookApp.csproj.CopyComplete
